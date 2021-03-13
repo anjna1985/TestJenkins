@@ -6,7 +6,7 @@ public class DecoTest {
 	
 	@Test
 	public void display() {
-		System.out.println("Hello");
+		System.out.println("Hello.......");
 		
 	}
 
