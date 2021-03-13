@@ -11,7 +11,7 @@ public class DecoTest {
 	@Test
 	public void moreDisplay()
 	{
-	System.out.println("Hey Team");
+	System.out.println("Hey Team......");
 	}
 		
 	}
